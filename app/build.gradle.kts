@@ -51,5 +51,7 @@ dependencies {
     implementation ("androidx.camera:camera-lifecycle:1.3.0")
     implementation ("androidx.camera:camera-view:1.3.0")
     implementation ("com.google.mlkit:face-detection:16.1.5")
+    implementation ("androidx.sqlite:sqlite:2.2.0")
+
 
 }
